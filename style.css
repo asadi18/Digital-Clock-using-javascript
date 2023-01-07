@@ -57,6 +57,6 @@ h2 {
     width: 60px;
     height: 30px;
     font-size: 14px;
-    background-color: darkcyan;
+    background-color: rgba(11, 122, 76, 0.842);
     opacity: 0.8;
 }
